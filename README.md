@@ -1,4 +1,4 @@
-# Efa nihira ve ianao anadroany ?,
+# Efa nihira ve ianao androany ?,
 Ity repositorie ity dia natao ho ampiasain'ny olona rehetra izay mila azy . Raisina an-tanan-droa avokoa ireo **fanamarihana** sy **fanatsarana** rehetra. 
 
 Ity **repositories** ity dia misy ny version JSON an'ireo hira hita ao anatin'ny fihirana toy ny : 
