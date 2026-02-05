@@ -1623,8 +1623,8 @@
     "ffpm_58": {
         "laharana": "58",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Alina masina",
+        "mpanoratra": ["J. Mohr"],
         "hira": [
             {
                 "andininy": 1,
@@ -4660,8 +4660,8 @@
     "ffpm_162": {
         "laharana": "162",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Amen, Jeso no Mpifehy",
+        "mpanoratra": ["N. Brorson"],
         "hira": [
             {
                 "andininy": 1,
@@ -6739,8 +6739,8 @@
     "ffpm_240": {
         "laharana": "240",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Alahady andro tsara",
+        "mpanoratra": ["J. Richardson"],
         "hira": [
             {
                 "andininy": 1,
@@ -8381,8 +8381,8 @@
     "ffpm_294": {
         "laharana": "294",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Ampio aho, Zanahary ô",
+        "mpanoratra": ["E. Rainimilavonjy"],
         "hira": [
             {
                 "andininy": 1,
@@ -8468,8 +8468,8 @@
     "ffpm_298": {
         "laharana": "298",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Aina no fetra, ry Tompo Mpanjaka",
+        "mpanoratra": ["R. Saillens"],
         "hira": [
             {
                 "andininy": 1,
@@ -9532,8 +9532,8 @@
     "ffpm_336": {
         "laharana": "336",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Ampodio izahay, Jehovah",
+        "mpanoratra": ["John Fawcett"],
         "hira": [
             {
                 "andininy": 1,
@@ -10660,8 +10660,8 @@
     "ffpm_387": {
         "laharana": "387",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Ampihetsehin’inona ?",
+        "mpanoratra": ["Emma Compbell"],
         "hira": [
             {
                 "andininy": 1,
@@ -10777,12 +10777,12 @@
     "ffpm_396": {
         "laharana": "396",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Aizan’ny lanitra Hianao",
+        "mpanoratra": ["Stef. Ramaka"],
         "hira": [
             {
                 "andininy": 1,
-                "tononkira": "Aizan’ny lanitra hianao,\nRy zanak’olona ô ?\nMoa mba efa niditra tao\nSa ao ivelany ?",
+                "tononkira": "Aizan’ny lanitra Hianao,\nRy zanak’olona ô ?\nMoa mba efa niditra tao\nSa ao ivelany ?",
                 "fiverenany": false
             },
             {
@@ -11403,8 +11403,8 @@
     "ffpm_418": {
         "laharana": "418",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Amorony fo madio",
+        "mpanoratra": ["Ph. Razafindraraoty"],
         "hira": [
             {
                 "andininy": 1,
@@ -13733,8 +13733,8 @@
     "ffpm_498": {
         "laharana": "498",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Ahy va jesosy Tompon'aina",
+        "mpanoratra": ["Lina Sandell", "P. Pedersen"],
         "hira": [
             {
                 "andininy": 1,
@@ -13896,8 +13896,8 @@
     "ffpm_504": {
         "laharana": "504",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Ambarao, ry mpivahiny !",
+        "mpanoratra": ["The Pilgrims (Golden Chain American)"],
         "hira": [
             {
                 "andininy": 1,
@@ -16058,8 +16058,8 @@
     "ffpm_581": {
         "laharana": "581",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Aiza re no hahitako",
+        "mpanoratra": ["F. Ambresin", "J. Andrianaivoravelona Z."],
         "hira": [
             {
                 "andininy": 1,
@@ -17456,8 +17456,8 @@
     "ffpm_632": {
         "laharana": "632",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Ampianaro aho, Tompo, mba hiambina",
+        "mpanoratra": ["Johanesa, Ambato"],
         "hira": [
             {
                 "andininy": 1,
@@ -17560,8 +17560,8 @@
     "ffpm_635": {
         "laharana": "635",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Aina no fetra, ry Jesosy Tompo",
+        "mpanoratra": ["R. Saillens", "G. Mondain"],
         "hira": [
             {
                 "andininy": 1,
@@ -18815,8 +18815,8 @@
     "ffpm_680": {
         "laharana": "680",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Aingao ny masontsika",
+        "mpanoratra": ["J. Rakotonirainy"],
         "hira": [
             {
                 "andininy": 1,
@@ -20095,8 +20095,8 @@
     "ffpm_725": {
         "laharana": "725",
         "sokajy": "ffpm",
-        "lohateny": "",
-        "mpanoratra": [],
+        "lohateny": "Alina ny andro",
+        "mpanoratra": ["W.E. Cousins"],
         "hira": [
             {
                 "andininy": 1,
